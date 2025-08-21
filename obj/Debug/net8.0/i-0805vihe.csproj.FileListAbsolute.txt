@@ -1,0 +1,15 @@
+/workspaces/i-0805vihe/bin/Debug/net8.0/i-0805vihe
+/workspaces/i-0805vihe/bin/Debug/net8.0/i-0805vihe.deps.json
+/workspaces/i-0805vihe/bin/Debug/net8.0/i-0805vihe.runtimeconfig.json
+/workspaces/i-0805vihe/bin/Debug/net8.0/i-0805vihe.dll
+/workspaces/i-0805vihe/bin/Debug/net8.0/i-0805vihe.pdb
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.AssemblyInfoInputs.cache
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.AssemblyInfo.cs
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.csproj.CoreCompileInputs.cache
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.sourcelink.json
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.dll
+/workspaces/i-0805vihe/obj/Debug/net8.0/refint/i-0805vihe.dll
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.pdb
+/workspaces/i-0805vihe/obj/Debug/net8.0/i-0805vihe.genruntimeconfig.cache
+/workspaces/i-0805vihe/obj/Debug/net8.0/ref/i-0805vihe.dll
